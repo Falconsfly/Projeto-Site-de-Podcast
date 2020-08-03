@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+header#cabecalho-dg h1 {
+	font-family: 'FonteLogo', sans-serif;
+	font-size: 20pt;
+	color: #CCA300;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+header#cabecalho-dg h3 {
+	font-size: 10pt;
+	color: #FFFFFF;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+article#DG h2 {
+	font-size: 13pt;
+	color: #FFFFFF;
+	background-color: #502812;
+	padding: 5px 0px 5px 10px;
+	margin: 10px 0px 10px 0px;
+}
+
+article#DG h1 {
+	font-family: 'FonteLogo', sans-serif;
+	font-size: 15pt;
+	color: #CCA300;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+header#cabecalho-pdc h1 {
+	font-family: 'FonteLogo', sans-serif;
+	font-size: 20pt;
+	color: #DB7917;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+header#cabecalho-pdc h3 {
+	font-size: 10pt;
+	color: #FFFFFF;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+article#PdC h2 {
+	font-size: 13pt;
+	color: #FFFFFF;
+	background-color: #502812;
+	padding: 5px 0px 5px 10px;
+	margin: 10px 0px 10px 0px;
+}
+
+article#PdC h1 {
+	font-family: 'FonteLogo', sans-serif;
+	font-size: 15pt;
+	color: #DB7917;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
